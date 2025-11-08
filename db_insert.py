@@ -1,6 +1,5 @@
 from database import get_db
 from models import Client, JobSeeker
-from datetime import datetime
 
 def save_client(data):
     db_gen = get_db()
