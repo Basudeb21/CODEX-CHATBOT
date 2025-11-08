@@ -54,7 +54,7 @@ def search_faq(question, top_n=3):
 
 
 
-def ask_codex(question, user_id="default", model="llama3"):
+def ask_codex(question, user_id="default", model="llama3.2:3b"):
     q = question.lower().strip()
 
     # Initialize completed forms tracker for new users
