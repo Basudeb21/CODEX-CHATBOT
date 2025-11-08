@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "label": "What is CodeX Technolife?",
+    "answer": "CodeX Technolife Pvt. Ltd. is an Indian IT solutions company offering services in web, app, and software development, cloud computing, and digital transformation."
+  },
+  {
+    "id": 2,
+    "label": "Where is CodeX Technolife located?",
+    "answer": "The company is located at S-R-S Tower, 2nd Floor, 2/1A Studio Lane (Haltu), Kolkata, West Bengal, India."
+  },
+  {
+    "id": 3,
+    "label": "When was CodeX Technolife established?",
+    "answer": "CodeX Technolife was incorporated on March 29, 2025."
+  },
+  {
+    "id": 4,
+    "label": "What kind of clients does CodeX Technolife serve?",
+    "answer": "We work with startups, enterprises, and organizations seeking scalable and customized software and IT solutions."
+  },
+  {
+    "id": 5,
+    "label": "What services does CodeX Technolife provide?",
+    "answer": "Our services include website and mobile app development, AI/ML solutions, cloud and cybersecurity services, digital marketing, and enterprise software development."
+  },
+  {
+    "id": 6,
+    "label": "Does CodeX Technolife build custom software?",
+    "answer": "Yes, we specialize in developing custom software solutions tailored to client requirements."
+  },
+  {
+    "id": 7,
+    "label": "Do you offer web design and UI/UX development?",
+    "answer": "Yes, we provide professional web design and UI/UX development focusing on modern and responsive interfaces."
+  },
+  {
+    "id": 8,
+    "label": "Can CodeX Technolife help in mobile app development?",
+    "answer": "Absolutely. We design and develop Android, iOS, and cross-platform mobile applications."
+  },
+  {
+    "id": 9,
+    "label": "Does CodeX Technolife provide e-commerce solutions?",
+    "answer": "Yes, we create secure, scalable, and customizable e-commerce platforms with integrated payment gateways."
+  },
+  {
+    "id": 10,
+    "label": "Does CodeX Technolife work with international clients?",
+    "answer": "Yes, we collaborate with clients globally for remote project delivery and long-term partnerships."
+  },
+  {
+    "id": 11,
+    "label": "What industries does CodeX Technolife serve?",
+    "answer": "We serve industries including IT, education, healthcare, retail, finance, and entertainment."
+  },
+  {
+    "id": 12,
+    "label": "How can I request a project quote?",
+    "answer": "You can fill out the contact or project inquiry form on our website, or email us directly."
+  },
+  {
+    "id": 13,
+    "label": "Does CodeX Technolife sign NDAs for projects?",
+    "answer": "Yes, we sign Non-Disclosure Agreements (NDAs) to ensure client data and idea confidentiality."
+  },
+  {
+    "id": 14,
+    "label": "What technologies do you use?",
+    "answer": "We work with modern stacks including Java, Python, React, Node.js, Flutter, TensorFlow, AWS, and Azure."
+  },
+  {
+    "id": 15,
+    "label": "Do you offer maintenance and support after delivery?",
+    "answer": "Yes, post-deployment maintenance and technical support are included in most service packages."
+  },
+  {
+    "id": 16,
+    "label": "How do you ensure data security?",
+    "answer": "We implement strict data protection standards, encryption, and access control to safeguard client data."
+  },
+  {
+    "id": 17,
+    "label": "Do you provide hosting and deployment support?",
+    "answer": "Yes, we assist with cloud hosting, CI/CD setup, and deployment on AWS, Azure, or other platforms."
+  },
+  {
+    "id": 18,
+    "label": "Can I hire dedicated developers from CodeX Technolife?",
+    "answer": "Yes, we provide dedicated developer hiring models for short-term and long-term projects."
+  },
+  {
+    "id": 19,
+    "label": "Do you work on fixed-cost or hourly projects?",
+    "answer": "We offer both fixed-price and hourly billing models depending on project scope and duration."
+  },
+  {
+    "id": 20,
+    "label": "What is the typical project delivery timeline?",
+    "answer": "Project duration varies with complexity; typical projects range from 2 weeks to 3 months."
+  },
+  {
+    "id": 21,
+    "label": "Does CodeX Technolife offer cloud migration services?",
+    "answer": "Yes, we help businesses move infrastructure and applications to secure cloud environments."
+  },
+  {
+    "id": 22,
+    "label": "What is your project communication process?",
+    "answer": "We use agile methodology, providing weekly progress reports and regular meetings via email or video calls."
+  },
+  {
+    "id": 23,
+    "label": "Can I track project progress?",
+    "answer": "Yes, clients receive access to project updates and task trackers for transparency."
+  },
+  {
+    "id": 24,
+    "label": "Do you provide documentation and training post-development?",
+    "answer": "Yes, we deliver full technical documentation and training sessions if required."
+  },
+  {
+    "id": 25,
+    "label": "What payment methods are accepted?",
+    "answer": "We accept bank transfers, UPI, PayPal, and major international payment options."
+  },
+  {
+    "id": 26,
+    "label": "Can I get a free consultation?",
+    "answer": "Yes, we offer free initial consultations to discuss project needs and feasibility."
+  },
+  {
+    "id": 27,
+    "label": "Is CodeX Technolife open to long-term partnerships?",
+    "answer": "Yes, we actively collaborate in long-term product development and IT partnership models."
+  },
+  {
+    "id": 28,
+    "label": "Do you provide AI or machine learning solutions?",
+    "answer": "Yes, our team builds predictive models, recommendation systems, and analytics platforms using ML frameworks."
+  },
+  {
+    "id": 29,
+    "label": "Can CodeX Technolife build ERP or CRM systems?",
+    "answer": "Yes, we design and implement enterprise-grade ERP and CRM systems."
+  },
+  {
+    "id": 30,
+    "label": "How can I contact support?",
+    "answer": "For any queries or issues, you can contact us via our support email or website chat system."
+  },
+
+
+
+  {
+    "id": 31,
+    "label": "Does CodeX Technolife offer internships?",
+    "answer": "Yes, we provide internships in software development, data science, design, and digital marketing."
+  },
+  {
+    "id": 32,
+    "label": "How can I apply for a job at CodeX Technolife?",
+    "answer": "You can apply directly through our website’s Careers page or email your resume to HR."
+  },
+  {
+    "id": 33,
+    "label": "What skills do you look for in candidates?",
+    "answer": "We seek passionate candidates skilled in programming, problem-solving, and teamwork."
+  },
+  {
+    "id": 34,
+    "label": "Is there a technical interview process?",
+    "answer": "Yes, shortlisted candidates go through a coding test followed by technical and HR interviews."
+  },
+  {
+    "id": 35,
+    "label": "Do you hire freshers?",
+    "answer": "Yes, we regularly hire fresh graduates and provide training under our mentorship programs."
+  },
+  {
+    "id": 36,
+    "label": "Do you offer remote work opportunities?",
+    "answer": "Yes, depending on the project, we offer hybrid and remote job roles."
+  },
+  {
+    "id": 37,
+    "label": "What is the typical recruitment timeline?",
+    "answer": "Recruitment usually takes 1–3 weeks from application to offer, depending on the role."
+  },
+  {
+    "id": 38,
+    "label": "Are internships paid?",
+    "answer": "Yes, most internships come with stipends or performance-based incentives."
+  },
+  {
+    "id": 39,
+    "label": "What technologies do interns work with?",
+    "answer": "Interns work on live projects using Java, Python, React, ML models, or Android development."
+  },
+  {
+    "id": 40,
+    "label": "How long are internship durations?",
+    "answer": "Internships typically range from 2 to 6 months based on the project and role."
+  },
+  {
+    "id": 41,
+    "label": "Do you provide certificates for internships?",
+    "answer": "Yes, all interns receive official completion certificates from CodeX Technolife."
+  },
+  {
+    "id": 42,
+    "label": "Is there an option for full-time placement after internship?",
+    "answer": "Yes, high-performing interns are often offered full-time roles."
+  },
+  {
+    "id": 43,
+    "label": "What is the work culture at CodeX Technolife?",
+    "answer": "We promote innovation, learning, and collaboration in a supportive and inclusive environment."
+  },
+  {
+    "id": 44,
+    "label": "Does CodeX Technolife provide training programs?",
+    "answer": "Yes, employees and interns receive continuous learning through workshops and tech sessions."
+  },
+  {
+    "id": 45,
+    "label": "Are there growth opportunities within the company?",
+    "answer": "Yes, we value internal promotions and skill-based advancement."
+  },
+  {
+    "id": 46,
+    "label": "Can students from outside Kolkata apply for internships?",
+    "answer": "Yes, remote internship options are available for students across India."
+  },
+  {
+    "id": 47,
+    "label": "What documents are required for applying?",
+    "answer": "Resume, cover letter, and optionally a portfolio or GitHub profile link."
+  },
+  {
+    "id": 48,
+    "label": "What departments recruit most often?",
+    "answer": "Software Development, Frontend & Backend, AI/ML, UI/UX Design, and Digital Marketing."
+  },
+  {
+    "id": 49,
+    "label": "Do you conduct campus placements?",
+    "answer": "Yes, we collaborate with universities for campus recruitment and internship drives."
+  },
+  {
+    "id": 50,
+    "label": "Can I reapply if I was rejected earlier?",
+    "answer": "Yes, candidates may reapply after 3 months with updated skills or projects."
+  },
+  {
+    "id": 51,
+    "label": "Who can I contact for recruitment queries?",
+    "answer": "You can reach our HR department through the contact form on our website."
+  },
+  {
+    "id": 52,
+    "label": "Do you offer freelancing or part-time roles?",
+    "answer": "Yes, depending on project demand, we offer part-time or contract-based roles."
+  },
+  {
+    "id": 53,
+    "label": "Does CodeX Technolife have employee referral programs?",
+    "answer": "Yes, employees can refer candidates and earn referral bonuses after successful hires."
+  },
+  {
+    "id": 54,
+    "label": "Are there any ongoing hiring drives?",
+    "answer": "Hiring drives are announced periodically on our official LinkedIn and website career page."
+  },
+  {
+    "id": 55,
+    "label": "What benefits do employees get?",
+    "answer": "Employees enjoy flexible work hours, learning opportunities, team events, and performance rewards."
+  },
+  {
+    "id": 56,
+    "label": "How can I contact CodeX Technolife?",
+    "answer": "You can reach us directly by phone at +91 947 456 2952 or email us at info@codextechnolife.com."
+  },
+  {
+    "id": 57,
+    "label": "What is the official email address for business inquiries?",
+    "answer": "For business or collaboration inquiries, please contact us at sales@codextechnolife.com."
+  },
+  {
+    "id": 58,
+    "label": "What is the official support email for CodeX Technolife?",
+    "answer": "For technical or general support, you can email info@codextechnolife.com."
+  },
+  {
+    "id": 59,
+    "label": "Is there a separate email for sales-related queries?",
+    "answer": "Yes, for any project discussions, quotes, or partnerships, contact sales@codextechnolife.com."
+  },
+  {
+    "id": 60,
+    "label": "Can I call CodeX Technolife directly?",
+    "answer": "Yes, our contact number is +91 947 456 2952. We’re available during standard business hours (Mon–Sat, 10 AM – 6 PM IST)."
+  },
+  {
+    "id": 61,
+    "label": "Where can I find CodeX Technolife’s office?",
+    "answer": "Our office is located at S-R-S Tower, 2nd Floor, 2/1A Studio Lane (Haltu), Kolkata, West Bengal 700078, India."
+  },
+  {
+    "id": 62,
+    "label": "Does CodeX Technolife have social media pages?",
+    "answer": "Yes, we’re active on LinkedIn and other social media platforms. You can find the links on our official website."
+  },
+  {
+    "id": 63,
+    "label": "What are the working hours of CodeX Technolife?",
+    "answer": "Our support and business hours are Monday to Saturday, 10:00 AM – 6:00 PM IST."
+  },
+  {
+    "id": 64,
+    "label": "Is there a form to request a project quote?",
+    "answer": "Yes, you can submit a quote or inquiry request through the Contact Us section on our website."
+  },
+  {
+    "id": 65,
+    "label": "Can clients visit the office for project discussions?",
+    "answer": "Yes, visits are welcome by prior appointment. Please contact us via phone or email to schedule a meeting."
+  }
+]
